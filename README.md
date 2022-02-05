@@ -15,6 +15,10 @@
   - Uses requests and beautifulsoup python libraries to scrape the web for the above information, as well as the discord library
 
 
+<sub>
+Notes: Unfortunately, I'm unable to share my current C/C++ and ARM UAL projects, since they were for academic purposes and I would get flagged for academic dishonesty by the school
+<sub/>
+
 [linkedin]: https://www.linkedin.com/in/alexander-bartella-02/
 [python-org]: https://www.python.org/
 [c-prog]: https://devdocs.io/c/
