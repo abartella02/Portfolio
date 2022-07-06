@@ -1,5 +1,3 @@
-### Welcome to my programming Porfolio!
-
 ## Projects:
 **Auto Sublist Maker:** A project I worked on during my time as a project coordinator at a construction company
 [<img align="right" alt="Python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />][python-org] [<img align="right" alt="VBA" width="89px" src="https://user-images.githubusercontent.com/93336604/152653144-b4f6eee1-0cf8-4ef3-a551-8e4ce8705c89.png" />][vba]
