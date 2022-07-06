@@ -1,5 +1,3 @@
-### Welcome to my programming Porfolio!
-
 ## Projects:
 **Auto Sublist Maker:** A project I worked on during my time as a project coordinator at a construction company
 [<img align="right" alt="Python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />][python-org] [<img align="right" alt="VBA" width="89px" src="https://user-images.githubusercontent.com/93336604/152653144-b4f6eee1-0cf8-4ef3-a551-8e4ce8705c89.png" />][vba]
@@ -15,9 +13,12 @@
   - Uses requests and beautifulsoup python libraries to scrape the web for the above information, as well as the discord library
 
 
-<sub>
-Notes: Unfortunately, I'm unable to share my current C/C++ and ARM UAL projects, since they were for academic purposes and I would get flagged for academic dishonesty by the school
-<sub/>
+**PWM Fan Controller:** A project for my embedded systems design class, MECHTRON 2TA4
+[<img align="right" alt="C" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />][c-prog]
+  - Created a heat-activated PWM fan device using a temperature sensor, operational amplifier, and an opto-isolator in conjunction with an STM32 MCU.
+  - Implemented a variety of functions in embedded C, such as display of the current temperature on an LCD, a user-modifiable threshold temperature, and PWM fan 
+    operation based on temperature.
+
 
 [linkedin]: https://www.linkedin.com/in/alexander-bartella-02/
 [python-org]: https://www.python.org/
