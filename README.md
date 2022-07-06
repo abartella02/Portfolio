@@ -15,9 +15,12 @@
   - Uses requests and beautifulsoup python libraries to scrape the web for the above information, as well as the discord library
 
 
-<sub>
-Notes: Unfortunately, I'm unable to share my current C/C++ and ARM UAL projects, since they were for academic purposes and I would get flagged for academic dishonesty by the school
-<sub/>
+**PWM Fan Controller:** A project for my embedded systems design class, MECHTRON 2TA4
+[<img align="right" alt="C" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" />][c-prog]
+  - Created a heat-activated PWM fan device using a temperature sensor, operational amplifier, and an opto-isolator in conjunction with an STM32 MCU.
+  - Implemented a variety of functions in embedded C, such as display of the current temperature on an LCD, a user-modifiable threshold temperature, and PWM fan 
+    operation based on temperature.
+
 
 [linkedin]: https://www.linkedin.com/in/alexander-bartella-02/
 [python-org]: https://www.python.org/
