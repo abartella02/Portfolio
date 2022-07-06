@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #2b2c28;
+    color: #028090;
+    font: caption;
+}
+
+.gameOption{
+    color: aquamarine;
+    font-family: Impact;
+}
+
+.optionbox{
+    border: aqua 3px solid;
+    margin-right: 3px;
+    border-radius: 10px;
+}
+
+.optionbox .rightmost{
+    margin-right: 0px;
+}
+
+#gameMenu{
+    display: grid;
+    text-align: center;
+    grid-template-columns: repeat(3, 100px);
+
+}

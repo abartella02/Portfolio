@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta name="viewport" content="width=device-width, initial scale=1.0"/>
+        <link href="../css/ttt.css" rel="stylesheet"/>
+    </head>
+
+    <body>
+        <div id="whole">
+            <div id="loginbox">
+                <h3 id="loginTitle">Login</h3>
+                <div id="fields">
+                    <label id="userLabel">Username</label>
+                    <input id="user" type="text">
+                    <label id="passLabel">Password</label>
+                    <input id="pass" type="password">
+                    <button id="loginButton">Login</button>
+                </div>
+            </div>
+
+            <h1 id="title">Tic-Tac-Toe</h1>
+            <div id = "split">
+                <div id="board">
+                    <div class="tile right-border bottom-border" data-index="1"></div>
+                    <div class="tile right-border bottom-border" data-index="2"></div>
+                    <div class="tile bottom-border" data-index="3"></div>
+                    <div class="tile right-border bottom-border" data-index="4"></div>
+                    <div class="tile right-border bottom-border" data-index="5"></div>
+                    <div class="tile bottom-border" data-index="6"></div>
+                    <div class="tile right-border" data-index="7"></div>
+                    <div class="tile right-border" data-index="8"></div>
+                    <div class="tile" data-index="9"></div>
+                    <div id="strike" class="strike"></div>
+                </div>
+                <div id="rightbox">
+                    <div id="scoretitle">
+                        Scoreboard
+                    </div>
+                    <div id="scoreboard">
+                        <div class="top-left">X</div>
+                        <div class="top-right">O</div>
+                        <div class="bot-left">
+                            <div id="xscore" class="score">0</div>
+                        </div>
+                        <div class="bot-right">
+                            <div id="oscore" class="score">0</div>
+                        </div>
+                    </div>
+                    <div id="game-over-area" class="hidden">
+                        <h2 id="game-over-text">Winner is X</h2>
+                        <button id="play-again">Play Again</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="back">
+            <a class="back" href="../index.html">Back</a>
+        </div>
+        <script src="../js/ttt.js"></script>
+    </body>
+</html> 
