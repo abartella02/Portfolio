@@ -24,6 +24,10 @@
 [<img align="right" alt="C" width="22px" src="https://www.mycplus.com/mycplus/wp-content/uploads/2008/09/JavaScript.png" />][js][<img align="right" alt="C" width="24px" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" />][html][<img align="right" alt="C" width="22px" src="https://camo.githubusercontent.com/119b29ca4b9d31cf3969a94eb57fcfbbea0879b493c09c89dc6d4b7fb9e0dc37/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6373732d332e737667" />][css]
   - Created a simple game of Tic-Tac-Toe with plans to add more games in the future
 
+**3D-Printable Lightsaber:**
+[<img align="right" alt="C" width="88px" src="https://yourengineer.in/wp-content/uploads/2021/07/autodesk-inventor-logo.png" />][fusion][<img align="right" alt="C" width="88px" src="https://i.pinimg.com/originals/f5/6b/60/f56b60f21d1afcdd41278048afcc75bf.png" />][inventor]
+  - Used Inventor and Fusion360 to design, prototype, and model a to-scale 3D model of a lightsaber handle from Star Wars. 
+  - Original design was restructured into an assembly to allow for 3D printing.
 
 [linkedin]: https://www.linkedin.com/in/alexander-bartella-02/
 [python-org]: https://www.python.org/
@@ -37,3 +41,5 @@
 [js]: https://javascript.com/
 [html]: https://www.w3.org/standards/webdesign/htmlcss
 [css]: https://www.w3.org/Style/CSS/Overview.en.html/
+[fusion]: https://www.autodesk.ca/en/products/fusion-360/
+[inventor]: https://www.autodesk.ca/en/products/inventor/
