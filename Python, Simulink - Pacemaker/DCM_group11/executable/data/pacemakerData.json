@@ -1,0 +1,11 @@
+{
+    "Device":"COM4",
+    "Name":"COM4",
+    "Description":"USB Serial Device (COM4)",
+    "Vendor ID":4966,
+    "Product ID":4117,
+    "Serial Number":"000000123456",
+    "Location":"1-9:x.0",
+    "Manufacturer":"Microsoft"
+
+}

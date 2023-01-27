@@ -1,0 +1,35 @@
+{
+    "AOO":[
+        "LowerRateLimit", 
+        "UpperRateLimit",
+        "APulseAmplitude",
+        "APulseWidth"
+    ],
+    "VOO":[
+        "LowerRateLimit", 
+        "UpperRateLimit",
+        "VPulseAmplitude",
+        "VPulseWidth"
+    ],
+    "AAI":[
+        "LowerRateLimit", 
+        "UpperRateLimit",
+        "APulseAmplitude",
+        "APulseWidth",
+        "ASensitivity",
+        "ARP",
+        "PVARP",
+        "Hysterisis",
+        "RateSmoothing"
+    ],
+    "VVI":[
+        "LowerRateLimit", 
+        "UpperRateLimit",
+        "VPulseAmplitude",
+        "VPulseWidth",
+        "VSensitivity",
+        "VRP",
+        "Hysterisis",
+        "RateSmoothing"
+    ]
+}

@@ -1,0 +1,2 @@
+cd ./executable
+GUI.exe

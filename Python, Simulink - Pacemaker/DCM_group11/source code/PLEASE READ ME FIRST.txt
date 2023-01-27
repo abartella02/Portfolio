@@ -1,0 +1,14 @@
+To run DCM, run GUI python file.
+DO NOT RUN ANY OF THE OTHER PYTHON FILES, THEY WON'T DO ANYTHING!!!!!
+
+How to run the GUI python file: 
+
+   First make sure python is installed
+
+   Method 1: IDLE
+      Open GUI.py in IDLE and click 'run' at the top of the window (or press F5)
+   
+   Method 2: terminal
+      1) Open command prompt, powershell, bash, or your choice of terminal
+      2) navigate to the containing folder of GUI.py (DCM_group11)
+      3) type in 'python GUI.py' without the quotation marks

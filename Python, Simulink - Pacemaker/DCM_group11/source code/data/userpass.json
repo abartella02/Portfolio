@@ -1,0 +1,27 @@
+[
+  {
+    "username": "alex",
+    "password": "bartella",
+    "filepath": "./data/userdata/alex.json"
+  },
+  {
+    "username": "1",
+    "password": "1",
+    "filepath": "./data/userdata/1.json"
+  },
+  {
+    "username": "w",
+    "password": "w",
+    "filepath": "./data/userdata/w.json"
+  },
+  {
+    "username": "a",
+    "password": "a",
+    "filepath": "./data/userdata/a.json"
+  },
+  {
+    "username": "23",
+    "password": "2",
+    "filepath": "./data/userdata/23.json"
+  }
+]
