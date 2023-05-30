@@ -1,0 +1,14 @@
+#include "system.h"
+#include <unistd.h>
+int main(){
+
+	char * LEDs=(char *) LEDS_BASE;
+
+	while (1){
+		*LEDs=0xFF;
+		usleep(1000*1000);
+		*LEDs=0x00;
+		usleep(1000*1000);
+	}
+	return 0;
+}

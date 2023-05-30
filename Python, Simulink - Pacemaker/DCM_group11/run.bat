@@ -1,2 +1,0 @@
-cd ./executable
-GUI.exe

@@ -1,0 +1,17 @@
+Partition Merge Status : Successful - Thu Mar 23 12:59:53 2023
+Quartus Prime Version : 17.1.0 Build 590 10/25/2017 SJ Standard Edition
+Revision Name : lab4
+Top-level Entity Name : lab4
+Family : Cyclone V
+Logic utilization (in ALMs) : 1,765 / 32,070 ( 6 % )
+Total registers : 2275
+Total pins : 57 / 457 ( 12 % )
+Total virtual pins : 0
+Total block memory bits : 1,112,704 / 4,065,280 ( 27 % )
+Total DSP Blocks : 3 / 87 ( 3 % )
+Total HSSI RX PCSs : 0
+Total HSSI PMA RX Deserializers : 0
+Total HSSI TX PCSs : 0
+Total HSSI PMA TX Serializers : 0
+Total PLLs : 1 / 6 ( 17 % )
+Total DLLs : 0 / 4 ( 0 % )
