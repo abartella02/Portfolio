@@ -1,5 +1,5 @@
 ## Projects:
-**Pacemaker GUI:** A python GUI to accompany a pacemaker designed using simulink
+**Pacemaker project:** A simulink pacemaker with accompanying python-based GUI
 [<img align="right" alt="Python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />][python-org] [<img align="right" alt="Simulink" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />][simulink]
   - Features multiple users support, serial communication, real-time plotting of pacemaker data. GUI can program and read pacemaker parameters over serial. APIs used include threading, pyserial, tkinter, matplotlib, and struct.
 
@@ -14,7 +14,7 @@
   - Designed a controller circuit for an SDRAM chip on a Cyclone V FPGA
   - Controller is able to read and write data to the DRAM
 
-**Auto Sublist Maker:** A project I worked on during my time as a project coordinator at a construction company
+**Subcontractor Scraper:** A project I worked on during my time as a project coordinator at a construction company
 [<img align="right" alt="Python" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" />][python-org] [<img align="right" alt="VBA" width="89px" src="https://user-images.githubusercontent.com/93336604/152653144-b4f6eee1-0cf8-4ef3-a551-8e4ce8705c89.png" />][vba]
   - Taking in a list of desired subcontractors from a word document, it searches the company's excel sheet for the subcontractor's contact information
   - Once acquired, it sorts the information by subtrade then inserts it into a macro-enabled excel document, which I programmed using VBA

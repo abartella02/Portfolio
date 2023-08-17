@@ -4,6 +4,7 @@
 [submodule "pacemaker-project"]
 	path = pacemaker-project
 	url = https://github.com/abartella02/3k04-lab.git
+	branch = master
 [submodule "asip-stepper-motor-controller"]
 	path = asip-stepper-motor-controller
 	url = https://github.com/abartella02/3tb4-lab-5.git
