@@ -1,3 +1,27 @@
 [submodule "portfolio-website"]
 	path = portfolio-website
 	url = https://github.com/abartella02/abartella02.github.io.git
+[submodule "pacemaker-project"]
+	path = pacemaker-project
+	url = https://github.com/abartella02/3k04-lab.git
+[submodule "asip-stepper-motor-controller"]
+	path = asip-stepper-motor-controller
+	url = https://github.com/abartella02/3tb4-lab-5.git
+[submodule "tic-tac-toe"]
+	path = tic-tac-toe
+	url = https://github.com/abartella02/tic-tac-toe.git
+[submodule "sdram-controller"]
+	path = sdram-controller
+	url = https://github.com/abartella02/sdram-controller.git
+[submodule "pwm-fan-controller"]
+	path = pwm-fan-controller
+	url = https://github.com/abartella02/pwm-fan-controller.git
+[submodule "insider-bot"]
+	path = insider-bot
+	url = https://github.com/abartella02/insider-bot.git
+[submodule "3d-printable-lightsaber"]
+	path = 3d-printable-lightsaber
+	url = https://github.com/abartella02/3d-printable-lightsaber.git
+[submodule "subcontractor-scraper"]
+	path = subcontractor-scraper
+	url = https://github.com/abartella02/subcontractor-scraper.git
